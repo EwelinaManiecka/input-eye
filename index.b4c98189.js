@@ -1,0 +1,2 @@
+const visibilityBtn=document.getElementById("show"),visibilityIcon=document.getElementById("hide");function toggleVisibility(){const e=document.getElementById("password");"password"===e.type?(e.type="text",document.getElementById("hide").style.display="inline-block",document.getElementById("show").style.display="none"):(e.type="password",document.getElementById("hide").style.display="none",document.getElementById("show").style.display="inline-block")}visibilityBtn.addEventListener("click",toggleVisibility);
+//# sourceMappingURL=index.b4c98189.js.map
