@@ -65,10 +65,14 @@ i {
 }
 
 .fa-eye {
-    margin-left: -35px;
+    margin-left: 220px;
+    position: absolute;
+    margin-top: -25px;
 }
 .fa-eye-slash {
-    margin-left: -35px;
+    margin-left: 220px;
+    position: absolute;
+    margin-top: -25px;
 }
 
 #hide {
